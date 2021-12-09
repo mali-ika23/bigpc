@@ -1,7 +1,7 @@
 {
 
-	"admob_banner": "ca-app-pub-3909544/6300978111",
-	"admob_inter": "ca-app-pub-394025942033173712",
+	"admob_banner": "ca-app-pub-4484521044648298/4889230605",
+	"admob_inter": "ca-app-pub-4484521044648298/6242481355",
 
 	"APP_KEY": "119bd88ed",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -25,9 +25,9 @@
 	"BUTTON_NAME_3": "SHOP NOW",
 	"BUTTON_NAME_4": "SHOP NOW",
 
-	"BUTTON_URL_1": "https://sites.google.com/view/privacypolicyallinone/accueil",
-	"BUTTON_URL_2": "https://sites.google.com/view/privacypolicyallinone/accueil",
-	"BUTTON_URL_3": "https://sites.google.com/view/privacypolicyallinone/accueil",
-	"BUTTON_URL_4": "https://sites.google.com/view/privacypolicyallinone/accueil"
+	"BUTTON_URL_1": "https://www.biglots.com/",
+	"BUTTON_URL_2": "https://www.biglots.com/",
+	"BUTTON_URL_3": "https://www.biglots.com/",
+	"BUTTON_URL_4": "https://www.biglots.com/"
 
 }
